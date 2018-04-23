@@ -1,0 +1,65 @@
+body{
+	text-align: center;
+	background-color: #fcf4e3;
+}
+
+
+.main-image{
+	margin-top: 5%;
+	
+	text-align: center;
+}
+
+.main-image img{
+	max-width: 700px;
+	max-height: 400px;
+	border: 1px solid white;
+	padding: 2%;
+}
+
+h1{
+	font-family: 'Cormorant Garamond', serif;
+	color: #00163a;
+	font-weight: 600;
+	font-size: 35pt;
+
+}
+
+p{
+	font-family: 'Cormorant Garamond', serif;
+	color: #00163a;
+	font-weight: 100;
+	font-size: 16pt;
+}
+
+.section{
+	margin-top: 3%;
+}
+
+.section select{ 
+
+	background-color: #fcf4e3;
+	border: 1px solid #00163a;
+	color: #00163a;
+	font-family: 'Cormorant Garamond', serif;
+	font-weight: 600;
+	padding-left: 10px;
+	-webkit-appearance: none;
+	width: 20%;
+	height: 40px;
+	font-size: 14pt;
+	border-radius: 0px;
+	margin-left: 4%;
+ }
+
+button{
+	margin-top: 4%;
+	background-color: #e5d5b3;
+	font-family: 'Cormorant Garamond', serif;
+	font-weight: 600;
+	color: #00163a;
+	padding: 12px;
+	border: 1px solid #00163a;
+	font-size: 16pt;
+}
+ 
